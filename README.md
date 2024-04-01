@@ -1,4 +1,4 @@
-# React Application to send notifications to an andriod or IOS device using Firebase.
+# React Application to send notifications to an android or IOS device using Firebase.
 
 Send real-time notifications to mobile devices using firebase.
 
